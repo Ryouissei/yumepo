@@ -1,0 +1,10 @@
+{
+  "name": "Yumepo",
+  "description": "朝、夢の断片を預けると、感情やメタファーをやさしく整理し、今日の小さなセルフケアに変換してくれるAIインナーウェザー・アプリ。",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
